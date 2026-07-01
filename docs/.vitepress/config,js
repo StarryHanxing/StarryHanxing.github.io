@@ -1,0 +1,4 @@
+export default {
+  title: '我的博客',
+  description: '通过 GitHub Actions 自动部署'
+}
